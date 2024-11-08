@@ -211,3 +211,13 @@ body {
     font-weight: 500;
     font-size: 14px;
   }
+
+  #portfolio .contact-info p {
+    margin-bottom: 10px;
+    border-top: 1px solid #b8b8b8;
+    padding-top: 5px;
+    color: #000000;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: right;
+  }
